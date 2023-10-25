@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello! I'm Elda (Verox Crown)
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=evcorona&count_private=true&theme=dark&show_icons=true)
 <!--
 **evcorona/evcorona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
