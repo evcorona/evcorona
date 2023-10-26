@@ -38,7 +38,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=evcorona&show_icons=true&include_all_commits=true&theme=algolia" alt="evcorona's github stats" />
 </a>
 <a href="https://github.com/evcorona/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=evcorona&layout=compact&include_all_commits=true&theme=algolia&langs_count=88&card_width=320" /> 
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=evcorona&layout=compact&include_all_commits=true&theme=algolia&langs_count=8" /> 
 </a>
 
 ## 🏆 GitHub Trophies
