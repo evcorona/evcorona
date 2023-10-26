@@ -1,4 +1,6 @@
-# Hello World! I'm Elda (Verox Crown)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&weight=500&size=40&width=800&height=60&vCenter=true&lines=Hello%2C+World!+I'm+Elda+%F0%9F%91%8B;Hello%2C+World!+I'm+Vero+%F0%9F%91%8B;Hello%2C+World!+I'm+Verox+Crown+%F0%9F%91%8B" alt="Typing SVG" />
+</a>
 
 ### 💻 Things I code with
 ![Javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white)
@@ -39,6 +41,9 @@
 </a>
 <a href="https://github.com/evcorona/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=evcorona&layout=compact&include_all_commits=true&theme=algolia&langs_count=8" /> 
+</a>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=evcorona&theme=algolia" alt="GitHub Streak" />
 </a>
 
 ## 🏆 GitHub Trophies
