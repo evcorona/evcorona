@@ -1,6 +1,10 @@
 ### Hello! I'm Elda (Verox Crown)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=evcorona&count_private=true&theme=dark&show_icons=true)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=evcorona&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="evcorona's github stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evcorona&layout=compact&theme=buefy&hide_border=true" /></a>
+
+
 <!--
 **evcorona/evcorona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
