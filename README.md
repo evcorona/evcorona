@@ -3,6 +3,7 @@
 </a>
 
 ### 💻 Things I code with
+
 ![Javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/typescript-3178C6.svg?style=flat&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
@@ -18,10 +19,19 @@
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=flat&logo=tailwindcss&logoColor=white)
 ![styledcomponents](https://img.shields.io/badge/styledcomponents-DB7093.svg?style=flat&logo=styledcomponents&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?style=flat&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white)
 ![i18next](https://img.shields.io/badge/i18next-26A69A.svg?style=flat&logo=i18next&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat&logo=redux&logoColor=white)
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white)
+![Lodash](https://img.shields.io/badge/Lodash-3492FF?style=flat&logo=lodash&logoColor=white)
+![PNPM](https://img.shields.io/badge/pnpm-yellow?style=flat&logo=pnpm&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=ReactQuery&logoColor=white)
 
+### 🧰 Items on my toolbox
 
-### 🧰 Common items on my toolbox
 ![Prettier](https://img.shields.io/badge/prettier-F7B93E.svg?style=flat&logo=prettier&logoColor=white)
 ![ESlint](https://img.shields.io/badge/eslint-4B32C3.svg?style=flat&logo=eslint&logoColor=white)
 ![Code Climate](https://img.shields.io/badge/codeclimate-000000.svg?style=flat&logo=codeclimate&logoColor=white)
@@ -33,6 +43,15 @@
 ![Netlify](https://img.shields.io/badge/netlify-00C7B7.svg?style=flat&logo=netlify&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/amazonaws-232F3E.svg?style=flat&logo=amazonaws&logoColor=white)
 ![IBM Cloud](https://img.shields.io/badge/ibmcloud-1261FE.svg?style=flat&logo=ibmcloud&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=Leaflet&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=flat&logo=expo&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=flat&logo=Insomnia&logoColor=white)
+![Ngrok](https://img.shields.io/badge/ngrok-140648?style=flat&logo=Ngrok&logoColor=white)
+![Sanity](https://img.shields.io/badge/sanity-F03E2F?style=flat&logo=sanity&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat&logo=vite&logoColor=FFD62E)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)
 
 ## GitHub Stats
 
@@ -49,6 +68,27 @@
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=evcorona&theme=algolia&no-frame=true&no-bg=false&margin-w=4)
+
+## 🌱 I’m currently learning
+
+**Data Science with Python**
+
+![Python Cloud](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=flat&logo=plotly&logoColor=white) and adding...
+
+[UAEM course](https://github.com/DCDPUAEM/DCDP)
+
+## 🏢 I’m currently working with
+
+- [Traxi Business](https://traxi.mx/business/)
+- [Traxi-on Organization](https://github.com/Traxi-on)
+
+##  📫 How to reach me
+
+- [Email](eldav.corona@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/eldacorona/)
 
 <!--
 Here are some ideas to get you started:
