@@ -55,19 +55,19 @@
 
 ## GitHub Stats
 
-<a href="https://github.com/evcorona/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=evcorona&show_icons=true&include_all_commits=true&theme=algolia" alt="evcorona's github stats" />
-</a>
-<a href="https://github.com/evcorona/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=evcorona&layout=compact&include_all_commits=true&theme=algolia&langs_count=8" /> 
-</a>
-<a href="https://git.io/streak-stats">
-  <img height=180 align="center" src="https://streak-stats.demolab.com?user=evcorona&theme=algolia" alt="GitHub Streak" />
-</a>
+  <a href="https://github.com/evcorona/github-readme-stats">
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=evcorona&show_icons=true&include_all_commits=true&theme=algolia" alt="evcorona's github stats" />
+  </a>
+  <a href="https://github.com/evcorona/github-readme-stats">
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=evcorona&layout=compact&include_all_commits=true&theme=algolia&langs_count=8" /> 
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img height=180 align="center" src="https://streak-stats.demolab.com?user=evcorona&theme=algolia" alt="GitHub Streak" />
+  </a>
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=evcorona&theme=algolia&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=evcorona&theme=algolia&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=3)
 
 ## 🌱 I’m currently learning
 
